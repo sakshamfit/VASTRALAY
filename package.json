@@ -1,0 +1,14 @@
+{
+  "name": "vara-saree-house",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "VĀRA cinematic saree storefront concept",
+  "author": "Saksham (sakshamfit) and team",
+  "contributors": [
+    "Gireesh (gireeshkumarreddy) — UI/UX design"
+  ],
+  "scripts": {
+    "check": "node --check dist/app.js && node --check dist/motion.js && node --check dist/catalog.js"
+  }
+}
